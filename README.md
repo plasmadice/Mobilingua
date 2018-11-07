@@ -21,7 +21,7 @@ To start: Clone this repository and `cd` into the root folder. Either open `inde
 
 ## Credit - Contribution - Licensing
 
-- [AWS](https://aws.amazon.com/) - Used for it's transcribing service - Special thanks to them for assisting with getting it going during the event.
+- [AWS](https://aws.amazon.com/) - Used for it's transcribing service - Special thanks to them answering questions about AWS during the event.
 
 ### TODO & WIP
 
