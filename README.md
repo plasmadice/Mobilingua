@@ -9,13 +9,15 @@ To start: Clone this repository and `cd` into the root folder. Either open `inde
 ## The Team
 
 **Developers:**
-Me- Herman - [LinkedIn](https://www.linkedin.com/in/herman-white-90373268/) ~ [Github](https://github.com/plasmadice)
-Eran - [LinkedIn](https://www.linkedin.com/in/eranusha/) ~ [Github](https://github.com/EUsha5)
+
+- Me- Herman - [LinkedIn](https://www.linkedin.com/in/herman-white-90373268/) ~ [Github](https://github.com/plasmadice)
+- Eran - [LinkedIn](https://www.linkedin.com/in/eranusha/) ~ [Github](https://github.com/EUsha5)
 
 **UI/UX Team && Presentation creators:**
-Ronald - [LinkedIn](https://www.linkedin.com/in/ronaldricardo/)
-Jana - [LinkedIn](https://www.linkedin.com/in/janaread/) ~ [Github](https://github.com/janamr)
-Ben - [LinkedIn](https://www.linkedin.com/in/brichie/)
+
+- Ronald - [LinkedIn](https://www.linkedin.com/in/ronaldricardo/)
+- Jana - [LinkedIn](https://www.linkedin.com/in/janaread/) ~ [Github](https://github.com/janamr)
+- Ben - [LinkedIn](https://www.linkedin.com/in/brichie/)
 
 ## Credit - Contribution - Licensing
 
