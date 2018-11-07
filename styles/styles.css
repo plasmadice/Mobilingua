@@ -1,0 +1,76 @@
+video,
+body,
+html {
+  height: 100%;
+  background-color: black;
+  font-family: "Open Sans", sans-serif;
+}
+
+#my-video {
+  height: 95%;
+}
+
+.video-container {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60%;
+}
+
+.captions-container {
+  display: flex;
+  justify-content: center;
+  height: 30%;
+}
+
+.captions-container p {
+  text-align: center;
+  height: 40px;
+  overflow: wrap;
+  padding: 0 10px;
+  margin: 20px 0;
+}
+
+.first-language {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  width: 300px;
+  /* background-color: orange; */
+}
+
+.second-language {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  width: 300px;
+  /* background-color: teal; */
+}
+
+.fl2,
+.sl2 {
+  /* background-color: red; */
+  color: yellow;
+}
+
+.fl1,
+.sl1,
+.sl3,
+.fl3 {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+#my-video {
+  width: auto;
+  height: 95%;
+  margin: 0;
+}
+
+/* Completely hide subtitles on video */
+::cue {
+  visibility: hidden;
+}
+::cue {
+  visibility: hidden;
+}

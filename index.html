@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Page Title</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://vjs.zencdn.net/7.2.4/video-js.css" rel="stylesheet">
+  <link rel="stylesheet" href="./styles/styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+  <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+</head>
+
+<body>
+  <div class='video-container'>
+    <video id="my-video" class="video-js" controls poster="">
+      <source src="https://www.dropbox.com/s/46t0szfswbzr6q8/2015_5_25_LMX_QueretaroPachucaReax1432533371131_3450k.mp4?raw=1"
+        type='video/mp4'>
+      <track class='first-track' kind="captions" src="./data/subs.vtt" srclang="es" label="Spanish" default>
+      <track class='second-track' kind="captions" src="./data/subs2.vtt" srclang="en" label="English">
+      <p class="
+        vjs-no-js">
+        To view this video please enable JavaScript, and consider upgrading to a web browser that
+        <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+      </p>
+    </video>
+  </div>
+  <div class='captions-container'>
+    <div class='first-language'>
+      <p class='fl1'></p>
+      <p class='fl2'></p>
+      <p class='fl3'></p>
+    </div>
+    <div class='second-language'>
+      <p class='sl1'></p>
+      <p class='sl2'></p>
+      <p class='sl3'></p>
+    </div>
+  </div>
+
+  <script src="https://vjs.zencdn.net/7.2.4/video.js"></script>
+  <script src="./scripts/scripts.js"></script>
+</body>
+
+</html>
